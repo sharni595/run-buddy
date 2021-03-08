@@ -10,6 +10,7 @@ body{
     color: #39a6b2; 
 }
 
+/* header */
 header{
     padding: 20px 35px;
     background-color: #39a6b2;   
@@ -43,6 +44,7 @@ header nav ul li a{
     font-size: 22px;
 }
 
+/* footer */
 footer{
     background: #fce138;
     width: 100%;
@@ -65,3 +67,5 @@ footer div{
 footer a{
     color: #024e76;
 }
+
+/* hero */
